@@ -11,6 +11,8 @@
 
 ### Javascript - React - NodeJs - Express - Css Module - Sequelize - PostgreSql - Redux
 
+### Contáctame: E-mail: ery.n.romero@gmail.com    
+                LinkIn: www.linkedin.com/in/erica-romero-418729211
 
 <!--
 **Ery-Romero/Ery-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
